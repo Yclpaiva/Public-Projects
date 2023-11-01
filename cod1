@@ -1,0 +1,30 @@
+# Define a função 'potenciade2' que calcula os quadrados dos números de 0 até 'inp'.
+def potenciade2():
+    # Solicita ao usuário que insira um valor final e converte a entrada em um número inteiro.
+    inp = int(input("Diga o valor final: "))
+    
+    # Loop for que itera de 0 até 'inp - 1'.
+    for i in range(inp):
+        # Imprime o resultado do cálculo de i ao quadrado.
+        print(f"{i}x{i} = {i*i}")
+    
+    # Fora do loop, calcula e imprime o resultado para 'inp' ao quadrado.
+    print(f"{i+1}x{i+1} = {(i+1)*(i+1)}")
+
+
+
+# Define a função 'atepotencia' que calcula as tabelas de multiplicação até um determinado valor.
+def atepotencia():
+    # Solicita ao usuário que insira um valor final e converte a entrada em um número inteiro.
+    inp = int(input("Diga o valor final: "))
+    
+    # Loop for que itera de 1 até 'inp'.
+    for i in range(1, inp+1):
+        # Loop for aninhado que itera de 1 até 'i'.
+        for j in range(1, i+1):
+            # Imprime a tabela de multiplicação de 'i' por 'j' separada por ' |'.
+            print(f"{i}x{j} = {i*j}", end=' |')
+        # Após a linha da tabela, imprime uma quebra de linha.
+        print(" ")
+
+
