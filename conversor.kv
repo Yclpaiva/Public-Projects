@@ -1,0 +1,36 @@
+<FirstLayout>:
+    orientation: 'vertical'
+#Coloca a cor cinza de fundo no FirstLayout
+    canvas:
+        Color: 
+            rgba: 0.196, 0.196, 0.196, 1
+        Rectangle:
+            size: self.size
+    
+    Label:
+        id: label_1
+        size_hint_y: 8
+        background_color: 0.671, 0.671, 0.671, 1
+        background_normal: ''
+        font_size: '15'
+        text: ''
+        text_size: self.size
+        halign: 'left'
+        valign: 'top'
+
+#Botão Conversor 1   
+    Button:
+        id: Button_1
+#chama a função receber texto_tipo1 da class FirstLayout
+        on_release: root.receber_texto_tipo1()
+        text:'Converter do Tipo 1 para o Tipo 2'
+        size_hint_x: 1
+
+#Botão Conversor 2   
+    Button:
+        id: Button_2
+#chama a função receber texto_tipo2 da class FirstLayout
+        on_release: root.receber_texto_tipo2()
+        text:'Converter do Tipo 2 para o Tipo 1'
+        size_hint_x: 1
+
