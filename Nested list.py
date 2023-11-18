@@ -9,10 +9,13 @@ if __name__ == '__main__':
     gradelist = []
     for student in sorted(lista, key=get_score):
         gradelist.append(student['score'])
-        print(f"{student['name']} is in {student['score']}")
+     #   print(f"{student['name']} is in {student['score']}")
     settedlist = set(gradelist)
-    second = settedlist[-1]
+    #print(settedlist)
+    second = list(settedlist)[1]
+    result = []
     for i in range(len(lista)):
-        if second in lista[i]['score']:
-            print(lista[i]['name'])
-    print(settedlist)
+        if second == lista[i]['score']:
+            result.append(lista[i]['name'])
+    for i in sorted(result):
+        print(i)
