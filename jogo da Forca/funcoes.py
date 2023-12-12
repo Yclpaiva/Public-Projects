@@ -1,4 +1,4 @@
-from jogoforca import forcaASCII, erros, copiapalavra,palavrasEncontradas,dica
+from main import forcaASCII, erros, copiapalavra,palavrasEncontradas,dica
 from forcaAscii import forcavazia, cabeca, corpo, pernas
 from selecionarPalavra import selecionarPalavra, randint
 import os

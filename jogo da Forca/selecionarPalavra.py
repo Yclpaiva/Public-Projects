@@ -1,6 +1,6 @@
 import random
 
-randint= random.randint
+randint = random.randint
 
 import csv
 
