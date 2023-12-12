@@ -4,7 +4,6 @@ randint = random.randint
 
 import csv
 
-
 def carregar_dados_do_csv(caminho_do_csv):
     listapalavras = []
     with open(caminho_do_csv, 'r') as arquivo_csv:

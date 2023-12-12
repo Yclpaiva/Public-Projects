@@ -4,9 +4,6 @@ from funcoes import limparchat, palavrasEncontradasAtualizadas, verificarVitoria
 import os
 
 iniciarJogo = True
-
-
-    
     
 while iniciarJogo == True:
     limparchat()
