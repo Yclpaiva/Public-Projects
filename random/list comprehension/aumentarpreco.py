@@ -1,5 +1,5 @@
 import time
-lista_precos = range(100000001)
+lista_precos = [500,1000,2000,5000,50,300,1250,1500]
 start_time = time.time()
 #cod1
 
@@ -20,5 +20,13 @@ def cod2():
     end_time = time.time()
     execution_time = end_time - start_time
     print(f"Tempo de execução: {execution_time} segundos")
+  
+  
+def cod3():
+    imposto = []
+    for preco in lista_precos:
+        if preco > 1000:
+            imposto.append(preco*1.5)
+    print(imposto)
     
-cod2()
+cod3()
