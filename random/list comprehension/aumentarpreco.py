@@ -29,4 +29,8 @@ def cod3():
             imposto.append(preco*1.5)
     print(imposto)
     
-cod3()
+def cod4():
+    imposto = [preco * 1.5 for preco in lista_precos if preco > 1000]
+    print(imposto)
+    
+cod4()
