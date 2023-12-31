@@ -8,3 +8,8 @@ print('identity matrix',identity_matrix)
 
 arange = np.arange(2,100,2)
 print(arange)
+
+#array multiplication
+a = np.array([1,3,5,7,9])
+b = np.array([1,3,5,7,9])
+print(a*b)
