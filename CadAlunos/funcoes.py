@@ -1,9 +1,12 @@
 import sqlite3
-
+import os
 
 connection = sqlite3.connect('db.db')
 cursor = connection.cursor()
 
+def clear_terminal():
+    os.system('cls' if os.name == 'nt' else 'clear')
+    
 def modificar_table():
     try:
         table = str(input('digite o comando para table ser adicionada: '))
@@ -16,7 +19,8 @@ def modificar_table():
 def atualizar_db():
     try:
         connection.commit()
-        print('Atualizado com sucesso')
+        clear_terminal()
+        print('Atualizado com sucesso\n')
     except sqlite3.Error as error:
         print(f'Erro ocorrido, referência: {error}')      
           

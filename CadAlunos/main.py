@@ -6,7 +6,7 @@ import funcoes
 #criar tabela de dados de alunos
 def menu():
     while True:
-        print('bem vindo ao sistema CadAlunos')
+        print('Sistema CadAlunos')
         print('1-Cadastrar Aluno, 2-Deletar Aluno, 3-Atualizar notas')
         valor = int(input(''))
         if valor == 1:
