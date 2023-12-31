@@ -88,6 +88,6 @@ def receber_notas():
 def atualizar_nota():
     id = receber_id_do_user()
     nota_geral = receber_notas()
-    cursor.execute('UPDATE alunos SET nota_geral = ? WHERE id = ?',(nota_geral,id))
+    cursor.execute('UPDATE alunos SET nota_geral = ? WHERE id = ?',(nota_geral, id))
     atualizar_db()
     
