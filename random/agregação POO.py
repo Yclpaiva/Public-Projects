@@ -19,5 +19,6 @@ class Empregado:
     
 #Envia dados para as classes
 salarioatribuido = Salario(10000,700)
-empregado1 = Empregado('Yuri',46,salarioatribuido)
+empregado1 = Empregado('Lucas',46,salarioatribuido)
+print(Salario(15000,700).salario_anual())
 print(empregado1.salario_total())
