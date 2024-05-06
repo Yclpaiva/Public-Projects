@@ -1,0 +1,15 @@
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/obj/Debug/net8.0/Desafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/obj/Debug/net8.0/Desafio.AssemblyInfoInputs.cache
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/obj/Debug/net8.0/Desafio.AssemblyInfo.cs
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/obj/Debug/net8.0/Desafio.csproj.CoreCompileInputs.cache
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/obj/Debug/net8.0/Desafio.sourcelink.json
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/bin/Debug/net8.0/Desafio
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/bin/Debug/net8.0/Desafio.deps.json
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/bin/Debug/net8.0/Desafio.runtimeconfig.json
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/bin/Debug/net8.0/Desafio.dll
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/bin/Debug/net8.0/Desafio.pdb
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/obj/Debug/net8.0/Desafio.dll
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/obj/Debug/net8.0/refint/Desafio.dll
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/obj/Debug/net8.0/Desafio.pdb
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/obj/Debug/net8.0/Desafio.genruntimeconfig.cache
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-1/Desafio/obj/Debug/net8.0/ref/Desafio.dll
