@@ -1,0 +1,15 @@
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/obj/Debug/net8.0/DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/obj/Debug/net8.0/DesafioPOO.AssemblyInfoInputs.cache
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/obj/Debug/net8.0/DesafioPOO.AssemblyInfo.cs
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/obj/Debug/net8.0/DesafioPOO.csproj.CoreCompileInputs.cache
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/obj/Debug/net8.0/DesafioPOO.sourcelink.json
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/bin/Debug/net8.0/DesafioPOO
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/bin/Debug/net8.0/DesafioPOO.deps.json
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/bin/Debug/net8.0/DesafioPOO.runtimeconfig.json
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/bin/Debug/net8.0/DesafioPOO.dll
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/bin/Debug/net8.0/DesafioPOO.pdb
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/obj/Debug/net8.0/DesafioPOO.dll
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/obj/Debug/net8.0/refint/DesafioPOO.dll
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/obj/Debug/net8.0/DesafioPOO.pdb
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/obj/Debug/net8.0/DesafioPOO.genruntimeconfig.cache
+/home/yuri/Documentos/GitHub/studies-and-courses/DIO/avanade-dotnet-developer/modulo-4/desafio/obj/Debug/net8.0/ref/DesafioPOO.dll
