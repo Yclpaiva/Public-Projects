@@ -1,0 +1,21 @@
+{
+  "name": "OOP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dist": "tsup src/index.ts",
+    "start:dev": "tsx --env-file=.env src/index.ts",
+    "start:watch": "tsx --env-file=.env src/index.ts --watch",
+    "start:dist": "npm run dist && node --env-file=.env dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.12.13",
+    "tsup": "^8.0.2",
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5"
+  }
+}
